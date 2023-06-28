@@ -1,4 +1,4 @@
-![logo](https://www.silicongraphics.ae/blog/uploads/posts/1643908777.png)
+
 <h1 align="center">Hi 👋, I'm Tofiq</h1>
 <h3 align="center">A beginner frontend developer from Azerbaijan</h3>
 
